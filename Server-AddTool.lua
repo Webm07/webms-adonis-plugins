@@ -1,11 +1,6 @@
 --[[ 
-	Currently in development.
-	
-	
-	
-	Original Comment: 
-	Credit to joritochip for help with custom commands metatable
-	san fixed this :P
+	Made by Awesomewebm
+	Give credit if possible but DO NOT STEAL THIS AND UPLOAD IT AS YOUR OWN
 ]]
 
 server = nil
