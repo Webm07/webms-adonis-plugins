@@ -11,3 +11,13 @@ You are not required to give me credit for anything, but please do so if you can
 - ;addtool - Adds the tool in your hand to the tool list
 - ;addedtools - Gives a list of added tools
 - ;deltool <name/all> - Deletes a specific tools or all added tools
+
+**BUG REPORTING**
+
+ALL BUGS MUST BE REPORTING USING THE ISSUE FEATURE ON GITHUB
+All bug reports must have
+- Description
+- Reproduction Steps (If applicable)
+- Adonis Version (ie. 215) / System
+
+
